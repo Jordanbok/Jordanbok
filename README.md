@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50" />, I am Jordan Bok!
 
-I am currently working on becoming a software edgineer through the Odin Project. 
+I am currently working on becoming a software engineer through the Odin Project. 
 
 ---
 
